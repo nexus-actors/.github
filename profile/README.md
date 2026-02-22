@@ -2,7 +2,7 @@
 
 # Nexus
 
-### A production-grade actor system for PHP 8.5+
+### A typed actor system for PHP 8.5+ &nbsp; `WIP`
 
 Type-safe actors, supervision trees, event sourcing, multi-process clustering.<br>
 Erlang/OTP and Akka patterns — in the PHP you already know.
