@@ -7,7 +7,7 @@
 Type-safe actors, supervision trees, event sourcing, multi-process clustering.<br>
 Erlang/OTP and Akka patterns — in the PHP you already know.
 
-[Documentation](https://nexus-actors.github.io/nexus/) &middot; [Quick Start](https://nexus-actors.github.io/nexus/docs/quick-start) &middot; [GitHub](https://github.com/nexus-actors/nexus)
+[Documentation](https://nexus-actors.github.io/nexus/) &middot; [Quick Start](https://nexus-actors.github.io/nexus/docs/getting-started/quick-start) &middot; [GitHub](https://github.com/nexus-actors/nexus)
 
 </div>
 
